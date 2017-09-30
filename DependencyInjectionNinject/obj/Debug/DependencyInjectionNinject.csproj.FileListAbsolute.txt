@@ -1,0 +1,288 @@
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.csprojResolveAssemblyReference.cache
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\ApplicationInsights.config
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csc.exe
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csc.exe.config
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csc.rsp
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csi.exe
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csi.exe.config
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csi.rsp
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.AppContext.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Console.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\vbc.exe
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\vbc.exe.config
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\vbc.rsp
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\DependencyInjectionNinject.dll.config
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\DependencyInjectionNinject.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\DependencyInjectionNinject.pdb
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Antlr3.Runtime.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\EntityFramework.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\EntityFramework.SqlServer.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.Web.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Newtonsoft.Json.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Ninject.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Helpers.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Mvc.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Optimization.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Razor.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\WebGrease.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\EntityFramework.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\EntityFramework.SqlServer.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Ninject.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Helpers.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Mvc.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Optimization.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Razor.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Antlr3.Runtime.pdb
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Newtonsoft.Json.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.Web.xml
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.dll
+C:\Users\Ashiq Emran\Documents\Visual Studio 2017\Projects\DependencyInjectionNinject\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.pdb
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.csprojResolveAssemblyReference.cache
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.csproj.CoreCompileInputs.cache
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.pdb
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\ApplicationInsights.config
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csc.exe
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csc.exe.config
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csc.rsp
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csi.exe
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csi.exe.config
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\csi.rsp
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.AppContext.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Console.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.Process.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.Compression.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.IO.Pipes.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.AccessControl.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Claims.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Threading.Thread.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.ValueTuple.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Xml.XPath.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\vbc.exe
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\vbc.exe.config
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\vbc.rsp
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\VBCSCompiler.exe
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\DependencyInjectionNinject.dll.config
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\DependencyInjectionNinject.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\DependencyInjectionNinject.pdb
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Antlr3.Runtime.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\EntityFramework.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\EntityFramework.SqlServer.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.DependencyCollector.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.Web.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.WindowsServer.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.ApplicationInsights.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Newtonsoft.Json.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Ninject.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Helpers.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Mvc.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Optimization.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Razor.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.Deployment.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.Razor.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\WebGrease.dll
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\EntityFramework.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\EntityFramework.SqlServer.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Ninject.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Helpers.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Mvc.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Optimization.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.Razor.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.Deployment.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\System.Web.WebPages.Razor.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Antlr3.Runtime.pdb
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Newtonsoft.Json.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.ApplicationInsights.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.DependencyCollector.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.WindowsServer.xml
+F:\ASP.NET MVC\DependencyInjectionNinject\DependencyInjectionNinject\bin\Microsoft.AI.Web.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\ApplicationInsights.config
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\csc.exe
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\csc.exe.config
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\csc.rsp
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\csi.exe
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\csi.exe.config
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\csi.rsp
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.AppContext.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Console.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.Process.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.IO.Compression.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.IO.Pipes.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Security.AccessControl.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Security.Claims.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Threading.Thread.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.ValueTuple.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Xml.XPath.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\vbc.exe
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\vbc.exe.config
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\vbc.rsp
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\VBCSCompiler.exe
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\DependencyInjectionNinject.dll.config
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\DependencyInjectionNinject.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\DependencyInjectionNinject.pdb
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Antlr3.Runtime.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\EntityFramework.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\EntityFramework.SqlServer.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.DependencyCollector.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.Web.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.WindowsServer.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.ApplicationInsights.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Newtonsoft.Json.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Ninject.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.Helpers.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.Mvc.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.Optimization.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.Razor.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.WebPages.Deployment.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.WebPages.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.WebPages.Razor.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\WebGrease.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\EntityFramework.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\EntityFramework.SqlServer.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Ninject.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.Helpers.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.Mvc.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.Optimization.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.Razor.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.WebPages.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.WebPages.Deployment.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\System.Web.WebPages.Razor.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Antlr3.Runtime.pdb
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Newtonsoft.Json.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.ApplicationInsights.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.DependencyCollector.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.WindowsServer.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\bin\Microsoft.AI.Web.xml
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.csprojResolveAssemblyReference.cache
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.csproj.CoreCompileInputs.cache
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.dll
+F:\ASP.NET MVC\DependencyInjectionNinject-MasterRepository\DependencyInjectionNinject\obj\Debug\DependencyInjectionNinject.pdb
